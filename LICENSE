@@ -200,33 +200,3 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
-
-Apache Maven includes a number of components and libraries with separate 
-copyright notices and license terms. Your use of those components are 
-subject to the terms and conditions of the following licenses: 
-#
-
-- AOP alliance (http://aopalliance.sourceforge.net) aopalliance:aopalliance:jar:1.0
-    License: Public Domain
-
-- JSR-250 Common Annotations for the JavaTM Platform (http://jcp.org/aboutJava/communityprocess/final/jsr250/index.html) javax.annotation:jsr250-api:jar:1.0
-    License: COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0 (CDDL-1.0)  https://glassfish.dev.java.net/public/CDDLv1.0.html (lib/jsr250-api.license)
-
-- Checker Qual (http://checkerframework.org) org.checkerframework:checker-compat-qual:jar:2.0.0
-    License: The MIT License (MIT)  http://opensource.org/licenses/MIT (lib/checker-compat-qual.license)
-
-- Animal Sniffer Annotations (http://mojo.codehaus.org/animal-sniffer/animal-sniffer-annotations) org.codehaus.mojo:animal-sniffer-annotations:jar:1.14
-    License: MIT license (MIT)  http://www.opensource.org/licenses/mit-license.php (lib/animal-sniffer-annotations.license)
-
-- org.eclipse.sisu.inject (http://www.eclipse.org/sisu/org.eclipse.sisu.inject/) org.eclipse.sisu:org.eclipse.sisu.inject:eclipse-plugin:0.3.3
-    License: Eclipse Public License, Version 1.0 (EPL-1.0)  http://www.eclipse.org/legal/epl-v10.html (lib/org.eclipse.sisu.inject.license)
-
-- org.eclipse.sisu.plexus (http://www.eclipse.org/sisu/org.eclipse.sisu.plexus/) org.eclipse.sisu:org.eclipse.sisu.plexus:eclipse-plugin:0.3.3
-    License: Eclipse Public License, Version 1.0 (EPL-1.0)  http://www.eclipse.org/legal/epl-v10.html (lib/org.eclipse.sisu.plexus.license)
-
-- JCL 1.2 implemented over SLF4J (http://www.slf4j.org) org.slf4j:jcl-over-slf4j:jar:1.7.25
-    License: MIT License (MIT)  http://www.opensource.org/licenses/mit-license.php (lib/jcl-over-slf4j.license)
-
-- SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.25
-    License: MIT License (MIT)  http://www.opensource.org/licenses/mit-license.php (lib/slf4j-api.license)
